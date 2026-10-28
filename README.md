@@ -39,7 +39,7 @@ python3 -m http.server 8088 --bind 127.0.0.1
 - https://github.com/INCEPTIONwang/A3
 - https://openreview.net/profile?id=%7EXianghui_Wang1 （本人提供的档案入口；档案正文由本人粘贴确认）
 - `assets/policytrim.png` 来自 PolicyTrim 的 `overview_01.png`。
-- `assets/a3.png` 来自 A3 的 `docs/assets/images/horizon-analysis.png`。
+- `assets/a3-architecture.png` 来自 A3 的 `docs/assets/images/method-overview.png`，用于论文架构图。
 
 ## 发布
 
